@@ -1,0 +1,77 @@
+.hometown {
+  background-image: url('images/hometown.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px 15px 0 0;
+}
+.activities {
+  background-color: #f2faee;
+  height: 600px;
+  text-align: center;
+}
+.guide {
+  background-color: #fefffe;
+  height: 600px;
+  border-radius: 0 0 15px 15px;
+}
+
+h2 {
+  margin-top: 0;
+  padding-top: 30px;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.bg-lightblue {
+  background-color: #447b9c;
+  padding: 1px 6px;
+  border-radius: 6px;
+}
+
+.bg-blue {
+  background-color: #1d3557;
+  padding: 1px 6px;
+  border-radius: 6px;
+}
+
+.three-activities {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+.guide {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.dev-info {
+  border-radius: 15px 15px 0 0;
+  background-color: #a8dadb;
+  width: 700px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border-bottom: 6px solid blue;
+}
+
+.box {
+  padding: 20px;
+}
+
+.bold {
+  font-weight: 800;
+}

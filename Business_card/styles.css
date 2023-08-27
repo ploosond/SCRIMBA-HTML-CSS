@@ -1,0 +1,25 @@
+body {
+  margin: 20px;
+  font-family: Garamond;
+}
+
+.avatar {
+  width: 150px;
+}
+.avatar:hover {
+  width: 400px;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  background-color: #b4d99a;
+  color: #0d0000;
+  border-bottom: 6px solid #9ca656;
+  border-radius: 20px;
+  text-shadow: 2px 2px;
+}
